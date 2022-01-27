@@ -51,9 +51,9 @@ def play_game(board, word, letters):
         letters (list): List of strings that shows the letters in the alphabet. If the user has guessed a letter, it will appear in caps.
     """
 
-    print('Welcome to my wordle_game! To play, try to guess the correct 5-letter word. You will have 6 tries.\
-    If your guess has one of the same letters as the 5-letter word, it will appear in lowercase.\
-    If one of your letters is the same letter in the same spot as the 5-letter word, it will appear in UPPERCASE.\n')
+    print("""Welcome to my wordle_game! To play, try to guess the correct 5-letter word. You will have 6 tries. \n
+    If your guess has one of the same letters as the 5-letter word, it will appear in lowercase.\n
+    If one of your letters is the same letter in the same spot as the 5-letter word, it will appear in UPPERCASE.\n""")
     time.sleep(1)
     print('Guess the word correctly within 6 attempts and you win! Otherwise try again by clicking "run".')
     row = 0
