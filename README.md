@@ -34,25 +34,9 @@ random_word = random_words.get_random_word(hasDictionaryDef="true", minCorpusCou
 ```
 
 Example of gameplay:
-```python
-Guess a 5-letter word: hello
-_ | _ | l | l | _ | 
 
-_ | _ | _ | _ | _ | 
+![Wordle Game in Play](https://im7.ezgif.com/tmp/ezgif-7-39e070ab27.gif)
 
-_ | _ | _ | _ | _ | 
-
-_ | _ | _ | _ | _ | 
-
-_ | _ | _ | _ | _ | 
-
-_ | _ | _ | _ | _ | 
-
-Guessed letters appear in UPPERCASE: 
-['a', 'b', 'c', 'd', 'E', 'f', 'g', 'H', 'i', 'j', 'k', 'L', 'm', 'n', 'O', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
-You now have 5 attempts left...
-Guess a 5-letter word: 
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
