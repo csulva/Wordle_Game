@@ -35,7 +35,7 @@ random_word = random_words.get_random_word(hasDictionaryDef="true", minCorpusCou
 
 Example of gameplay:
 
-![Wordle Game in Play](https://media.giphy.com/media/tRc6XpvSdFNnYuYr7T/giphy.gif)
+![Wordle Game in Play](https://thumbs.gfycat.com/EssentialBothGermanspitz-size_restricted.gif)
 
 
 ## Contributing
