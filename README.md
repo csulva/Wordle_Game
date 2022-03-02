@@ -24,7 +24,7 @@ pip install random-word
 pip install pyyaml
 ```
 
-## Usage
+## Application
 
 ```python
 # Import 5 letter word
