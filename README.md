@@ -7,7 +7,7 @@ If one of the letters in your guess is in the 5-letter word but in a different p
 
 ## Play the Game
 To test your skills, [play here on Repl.it](https://replit.com/@ChrisSulva/wordlegame#main.py)
-Click "run" to begin!
+Click "Run" to begin!
 
 ## Installation
 
